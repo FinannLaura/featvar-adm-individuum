@@ -1,0 +1,13 @@
+Mean Accuracy (2L): 0.6849
+Standard Deviation of Accuracy (2L): 0.0099
+Mean Accuracy (7L): 0.6713
+Standard Deviation of Accuracy (7L): 0.0119
+Mean Accuracy (10L): 0.6714
+Standard Deviation of Accuracy (10L): 0.0122
+Mean Accuracy (2R): 0.6614
+Standard Deviation of Accuracy (2R): 0.0122
+Mean Accuracy (7R): 0.6459
+Standard Deviation of Accuracy (7R): 0.0122
+Mean Accuracy (10R): 0.6493
+Standard Deviation of Accuracy (10R): 0.0125Mean Accuracy (9L): 0.6761
+
